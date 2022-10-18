@@ -13,4 +13,4 @@ Implementing JWT authentication in Laravel 9 and React (Laravel Backend)
 
 - React
 - Tailwind
-Link: (https://github.com/muzudre/react-jwt-auth)
+- Link: (https://github.com/muzudre/react-jwt-auth)
